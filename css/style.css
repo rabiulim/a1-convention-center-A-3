@@ -1,7 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
-body{
-    font-family: 'Oswald', sans-serif;
-}
+
 .a1-book-now-btn{
     text-decoration: none;
     background-image: linear-gradient(to bottom,#FF589B 0%, #FF136F 100%);
